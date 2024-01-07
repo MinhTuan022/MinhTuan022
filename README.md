@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Minh Tuấn</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhtuan022&label=Profile%20views&color=0e75b6&style=flat" alt="minhtuan022" /> </p>
+<h3 align="center">A intern developer</h3>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhtuan022&label=Profile%20views&color=0e75b6&style=flat" alt="minhtuan022" /> </p> -->
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
 - 💬 Ask me about **everything**
 
 - 📫 How to reach me **nguyenminhtuan25102002@gmail.com**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhtuan022&label=Profile%20views&color=0e75b6&style=flat" alt="minhtuan022" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
